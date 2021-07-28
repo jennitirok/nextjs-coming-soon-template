@@ -17,6 +17,11 @@ export default function Home() {
         <h1 className={styles.title}>
           Coming Soon!
         </h1>
+        <p className={styles.description}>
+          Want to know more?
+          <br />
+          <a href="https://github.com">Download the whitepaper here</a>
+        </p>
       </main>
 
       <footer className={styles.footer}>
